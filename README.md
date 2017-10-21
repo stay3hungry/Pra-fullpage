@@ -1,2 +1,2 @@
 # Pra-fullpage
-fullpage配合animate.css 全屏滚动页面制作
+fullpage配合animate.css 全屏滚动 页面
